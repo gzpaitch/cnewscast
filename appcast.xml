@@ -3,10 +3,10 @@
     <channel>
         <title>Nova Atualização</title>
         <item>
-            <title>Versão 8.15.0</title>
+            <title>Versão 9.5.0</title>
             <description>Novos recursos e melhorias na performance.</description>
             <pubDate>Mon, 30 Oct 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.avenca.corretor_news_app" sparkle:version="8.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.avenca.corretor_news_app" sparkle:version="9.5.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>

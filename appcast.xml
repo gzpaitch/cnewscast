@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Nova Atualização</title>
+        <title>Corretor News - Atualização</title>
         <item>
             <title>Versão 9.5.0</title>
-            <description>Novos recursos e melhorias na performance.</description>
-            <pubDate>Mon, 30 Oct 2023 12:00:00 +0000</pubDate>
+            <description>Novos recursos e melhorias na performance e experiência de uso.</description>
+            <pubDate>Fri, 01 Nov 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.avenca.corretor_news_app" sparkle:version="9.5.0" sparkle:os="android" />
         </item>
     </channel>
